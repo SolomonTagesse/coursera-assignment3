@@ -1,0 +1,73 @@
+
+/*General styling*/
+body {
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+p{
+    margin: 0px;
+    padding: 0px 30px 15px 30px;
+}
+/*General styling ending*/
+.navbar {
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-size: 40px;
+    color: rgb(101, 77, 238);
+    padding-left: 10px;
+}
+
+.navbar-brand:hover {
+    color: rgb(10, 246, 97);
+}
+
+.navbar-nav {
+    font-size: 30px;
+    text-align: center;
+}
+
+.navbar-toggler {
+    border: 2px solid white;
+    margin-right: 15px;
+}
+
+.icon-bar {
+    background-color: rgb(242, 11, 11);
+}
+
+.main-title {
+    text-align: center;
+    color: #ed15cc;
+    font-size: 60px;
+    font-weight: bold;
+}
+.content-box {
+    color: rgb(24, 1, 1);
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    padding: 7px;
+    margin-bottom: 20px;
+    background-color: rgb(169, 175, 173); 
+}
+.top{
+    color:green;
+}
+
+.item-name {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color:crimson;
+    padding-top: 25px;
+}
+.navbar-nav li:hover{
+    background-color: rgb(164, 221, 211);
+    border-radius: 70px;
+}
